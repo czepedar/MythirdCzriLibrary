@@ -1,0 +1,16 @@
+PODS:
+  - MythirdCzriLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MythirdCzriLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MythirdCzriLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MythirdCzriLibrary: f2ff503a61d3919a69677b366f7ba70de21abd25
+
+PODFILE CHECKSUM: 5da30d1849f2baeecf74d7d83b6cccb7c2cb9ca4
+
+COCOAPODS: 1.10.1

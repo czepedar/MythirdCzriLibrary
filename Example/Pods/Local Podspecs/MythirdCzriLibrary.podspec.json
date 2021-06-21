@@ -1,0 +1,22 @@
+{
+  "name": "MythirdCzriLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MythirdCzriLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zeprm@hotmail.com/MythirdCzriLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zeprm@hotmail.com": "zeprm\u0011@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zeprm@hotmail.com/MythirdCzriLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MythirdCzriLibrary/Classes/**/*"
+}
