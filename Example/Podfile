@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MythirdCzriLibrary_Example' do
+  pod 'MythirdCzriLibrary', :path => '../'
+
+  target 'MythirdCzriLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
